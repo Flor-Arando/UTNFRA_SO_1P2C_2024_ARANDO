@@ -1,0 +1,4 @@
+Mi IP Publica es: 181.2.173.194
+Mi usuario es: vagrant
+El Hash de mi Usuario es: $y$j9T$f7V.J8o8/5JXqaI3xUKKQ0$oND2iaEkOI22AcHc9kfKwylXqBi.VixFO/cPGuxMD..
+La URL de mi repositorio es: https://Flor-Arando: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@github.com/Flor-Arando/UTNFRA_SO_1P2C_2024_ARANDO
